@@ -20,4 +20,5 @@ Thank you to everyone who’s written in for your kind words and for sharing you
 Please note that Brapp Records will continue to operate as usual.
 
 With love,
+
 Team Brapp

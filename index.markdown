@@ -5,7 +5,7 @@
 layout: home
 ---
 
-Dear Brapp family,
+**Dear Brapp family,**
 
 It is with the heaviest heart that we inform you that we have shut down the Brapp app and web platform.
 
@@ -21,4 +21,4 @@ Please note that Brapp Records will continue to operate as usual.
 
 With love,
 
-Team Brapp
+**Team Brapp** – Niki, Levent, Pavan, Raad

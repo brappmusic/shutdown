@@ -11,7 +11,7 @@ It is with the heaviest heart that we inform you that we have shut down the Brap
 
 We started Brapp with a simple plan, to create an app that enable artists and producers to connect in a way that has no geographical, musical or financial barriers, and believe that now more than ever, anything that helps us stay connected beyond borders and cultures is important and should be celebrated.
 
-Sadly, however, Brapp is expensive to run and we don’t currently have the financial runway to keep it operating or build all the exciting things in our roadmap.
+Sadly, however, Brapp is expensive to run and we don’t currently have the financial runway to keep it operating or build all the exciting things in our roadmap we had planned. So, until further notice, we have to put it on ice.
 
 We have seen countless collaborations between people from far and wide and couldn’t be prouder of all the musical interactions we’ve enabled and all the new friendships born through collaboration, and most of all the community of creators elevating each other.
 
